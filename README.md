@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ffrfdedzsffx
-- 👀 I’m interested in front end
+- 👀 I’m interested in php
 - 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mojtabazare8032@gmail.com
